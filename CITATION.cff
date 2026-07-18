@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "WIKIPURE: A Standalone, Dynamic Multi-Language \"Pure\" XML Extractor for English Wiktionary Dumps"
+version: "v1.0"
+date-released: "2026"
+authors:
+  - family-names: "Al-Said"
+    given-names: "Almoataz B."
+    affiliation: "Kuwait University; Cairo University"
+license: MIT
+repository-code: "https://github.com/almoatazb/wikipure"
+abstract: >
+  WIKIPURE is a standalone extraction tool that produces a clean,
+  single-language "<language>_pure.xml.gz" corpus for any language named
+  at runtime, directly from an English Wiktionary dump, without requiring
+  a full multilingual pipeline or a fixed language list. It is designed
+  as upstream infrastructure for building precise, targeted language
+  resources -- etymological dictionaries, phonological inventories,
+  dialect corpora, morphological databases -- bundling curated,
+  dialect-aware category patterns for a resource-poor tier (14 Semitic,
+  Afroasiatic, and other historically under-resourced languages) and a
+  resource-rich comparison tier (10 widely documented languages), with
+  automatic pattern generation for any other language.
+keywords:
+  - Wiktionary
+  - computational lexicography
+  - low-resource languages
+  - Semitic languages
+  - Arabic
+  - corpus linguistics
+  - lexical resources
