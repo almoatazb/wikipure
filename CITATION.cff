@@ -10,6 +10,7 @@ authors:
     affiliation: "Kuwait University; Cairo University"
 license: MIT
 repository-code: "https://github.com/almoatazb/wikipure"
+doi: "10.5281/zenodo.21429856"
 abstract: >
   WIKIPURE is a standalone extraction tool that produces a clean,
   single-language "<language>_pure.xml.gz" corpus for any language named
