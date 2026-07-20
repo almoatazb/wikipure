@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "WIKIPURE: A Standalone, Dynamic Multi-Language \"Pure\" XML Extractor for English Wiktionary Dumps"
 version: "v1.0"
-date-released: "2026"
+date-released: "2026-07-18"
 authors:
   - family-names: "Al-Said"
     given-names: "Almoataz B."

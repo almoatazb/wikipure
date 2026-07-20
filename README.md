@@ -161,7 +161,7 @@ README.md               this file
 
 ## Citation
 
-If you use WIKIPURE in academic work, please cite it as software. A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff); once deposited, Zenodo will also generate this automatically from that file. Suggested citation:
+If you use WIKIPURE in academic work, please cite it as software. A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff); the archived release and citation are also available on [Zenodo](https://zenodo.org/records/21429856). Suggested citation:
 
 
 > Al-Said, A. B. (2026). *WIKIPURE: A Standalone, Dynamic Multi-Language "Pure" XML Extractor for English Wiktionary Dumps* (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21429856
